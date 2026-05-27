@@ -53,12 +53,10 @@ This page is the README landing page for the Traffic Escape browser game on SERP
 
 ## Similar Games
 
-- [Rocket Soccer Derby](https://games.serp.co/games/rocket-soccer-derby/)
-- [Draw The Hill](https://games.serp.co/games/draw-the-hill/)
-- [Scrap Metal](https://games.serp.co/games/scrap-metal/)
-- [Among Us](https://games.serp.co/games/among-us/)
-- [Cookie Clicker](https://games.serp.co/games/cookie-clicker/)
-- [Tetris Flash](https://games.serp.co/games/tetris-flash/)
+- [BadIceCream 2](https://github.com/serpgames/bad-ice-cream-2-game)
+- [Level Devil](https://github.com/serpgames/level-devil-game)
+- [Snake](https://github.com/serpgames/snake-game)
+- [Tetris](https://github.com/serpgames/tetris-game)
 
 ## Play Now
 
